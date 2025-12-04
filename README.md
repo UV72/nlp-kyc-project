@@ -53,3 +53,9 @@ Fine-tuned on the SROIE dataset
 Performs moderately well on form-like documents
 
 Extracts information poorly from Aadhaar cards compared to the YOLOv11 + PaddleOCR pipeline
+
+### Output screenshots
+![sample aadhar](screenshots/sample_aadhar.jpg)
+![scorecard](screenshots/scorecard.png)
+![user form](screenshots/user_form.png)
+
