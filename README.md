@@ -13,6 +13,8 @@ The project explores and benchmarks three different pipelines:
 
 ### 1. YOLOv11 + PaddleOCR (Best Performing)
 
+Demo video link : https://drive.google.com/drive/folders/1S_CYccbhJNKJKYTXD48N3Hr568R3EqJE?usp=sharing
+
 The **YOLOv11 + PaddleOCR** method achieved the most accurate results for Aadhaar and PAN card text extraction.
 
 Pipeline overview:
